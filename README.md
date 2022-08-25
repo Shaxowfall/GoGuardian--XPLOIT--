@@ -5,5 +5,5 @@ Exploit (date(8/24/2022)) is currently: Working
 `````````````````````````````````````````````````
 Errors: Cannot Bypass Ip Restricted sites
 `````````````````````````````````````````````````
-How To Use: Simply copy the script and create a bookmark in your browser and replace where you normally put ```http://``` and replace it with ```javascript:```
+How To Use: Simply copy the script and create a bookmark in your browser. Finally replace where you normally put ```http://``` and replace it with ```javascript:```
 `````````````````````````````````````````````````
