@@ -1,0 +1,1 @@
+var d=document,e=alert,b=d.body,Inet=d.createElement("iframe");e("JS-Compatable"),p=prompt("Input Url|Must Include \"https/http\" tag"),Inet.setAttribute("src",p),Inet.setAttribute("width",650),Inet.setAttribute("height",500);if(p==null){e("Error: No Url Specified")}else if(p==""){e("Error: Invalid/No Url Specified")}else{b.appendChild(Inet)};
